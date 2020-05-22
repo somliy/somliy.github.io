@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>概念 on somliy的个人生活记录</title>
+    <link>https://somliy.top/tags/%E6%A6%82%E5%BF%B5/</link>
+    <description>Recent content in 概念 on somliy的个人生活记录</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Wed, 10 Apr 2019 20:10:42 +0800</lastBuildDate>
+    
+	<atom:link href="https://somliy.top/tags/%E6%A6%82%E5%BF%B5/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>rpm和yum区别和联系以及apt-get</title>
+      <link>https://somliy.top/post/2019/2019-4-10-linux-type/</link>
+      <pubDate>Wed, 10 Apr 2019 20:10:42 +0800</pubDate>
+      
+      <guid>https://somliy.top/post/2019/2019-4-10-linux-type/</guid>
+      <description>&lt;h2 id=&#34;rpm是由红帽公司开发的软件包管理方式但是rpm软件包之间的依赖性问题往往会很繁琐尤其是软件由多个rpm包组成时&#34;&gt;rpm是由红帽公司开发的软件包管理方式，但是rpm软件包之间的依赖性问题往往会很繁琐,尤其是软件由多个rpm包组成时。&lt;/h2&gt;
+&lt;h2 id=&#34;yumyellow-dog-updater-modified是一个在fedora和redhat以及suse中的shell前端软件包管理器&#34;&gt;Yum（Yellow dog Updater, Modified）是一个在Fedora和RedHat以及SUSE中的Shell前端软件包管理器。&lt;/h2&gt;
+&lt;p&gt;基於RPM包管理，能够从指定的服务器自动下载RPM包并且安装，可以自动处理依赖性关系，并且一次安装所有依赖的软体包，无须繁琐地一次次下载、安装。&lt;/p&gt;
+&lt;p&gt;rpm 是一种软件包名称，以.rmp结尾，yum并不是一种包，而是安装包的软件。&lt;/p&gt;
+&lt;p&gt;rpm 只能安装已经下载到本地机器上的rpm 包.&lt;br&gt;
+yum能在线下载并安装rpm包,能更新系统,且还能自动处理包与包之间的依赖问题&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

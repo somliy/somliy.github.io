@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugo on somliy的个人生活记录</title>
+    <link>https://somliy.top/tags/hugo/</link>
+    <description>Recent content in hugo on somliy的个人生活记录</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Wed, 29 Jan 2020 19:20:58 +0800</lastBuildDate>
+    
+	<atom:link href="https://somliy.top/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>hugo 添加鼠标单击特效</title>
+      <link>https://somliy.top/post/2020/2020-1-29-hugo/</link>
+      <pubDate>Wed, 29 Jan 2020 19:20:58 +0800</pubDate>
+      
+      <guid>https://somliy.top/post/2020/2020-1-29-hugo/</guid>
+      <description>&lt;h2 id=&#34;hugo-博客-监听鼠标点击事件添加动画效果&#34;&gt;hugo 博客 监听鼠标点击事件，添加动画效果&lt;/h2&gt;</description>
+    </item>
+    
+    <item>
+      <title>hugo 监听浏览器切换title</title>
+      <link>https://somliy.top/post/2020/2020-1-28-hugo/</link>
+      <pubDate>Tue, 28 Jan 2020 19:20:58 +0800</pubDate>
+      
+      <guid>https://somliy.top/post/2020/2020-1-28-hugo/</guid>
+      <description>&lt;h2 id=&#34;hugo-博客-监听浏览器title-动态改变浏览器title标题&#34;&gt;hugo 博客 监听浏览器title 动态改变浏览器title标题&lt;/h2&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

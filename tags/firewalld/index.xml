@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>firewalld on somliy的个人生活记录</title>
+    <link>https://somliy.top/tags/firewalld/</link>
+    <description>Recent content in firewalld on somliy的个人生活记录</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 22 Sep 2019 20:02:46 +0800</lastBuildDate>
+    
+	<atom:link href="https://somliy.top/tags/firewalld/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Centos7 防火墙 firewalld</title>
+      <link>https://somliy.top/post/2019/2019-9-22-study-firewalld/</link>
+      <pubDate>Sun, 22 Sep 2019 20:02:46 +0800</pubDate>
+      
+      <guid>https://somliy.top/post/2019/2019-9-22-study-firewalld/</guid>
+      <description>&lt;h2 id=&#34;iptables和firewalld&#34;&gt;iptables和firewalld&lt;/h2&gt;
+&lt;p&gt;Centos7以上的发行版都试自带了firewalld防火墙的，firewalld去带了iptables防火墙。&lt;/p&gt;
+&lt;p&gt;iptables的防火墙策略是交由内核层面的netfilter网络过滤器来处理的，而firewalld则是交由内核层面的nftables包过滤框架来处理。 相较于iptables防火墙而言，firewalld支持动态更新技术并加入了区域（zone）的概念。&lt;/p&gt;
+&lt;p&gt;简单来说，区域就是firewalld预先准备了几套防火墙策略集合（策略模板），用户可以根据生产场景的不同而选择合适的策略集合，从而实现防火墙策略之间的快速切换。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

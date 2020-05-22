@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>docker on somliy的个人生活记录</title>
+    <link>https://somliy.top/tags/docker/</link>
+    <description>Recent content in docker on somliy的个人生活记录</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Fri, 20 Sep 2019 23:01:28 +0800</lastBuildDate>
+    
+	<atom:link href="https://somliy.top/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Centos7安装docker</title>
+      <link>https://somliy.top/post/2019/2019-9-20-study-docker/</link>
+      <pubDate>Fri, 20 Sep 2019 23:01:28 +0800</pubDate>
+      
+      <guid>https://somliy.top/post/2019/2019-9-20-study-docker/</guid>
+      <description>&lt;h2 id=&#34;docker首装添加加速器docker-compose&#34;&gt;docker首装，添加加速器，docker-compose&lt;/h2&gt;</description>
+    </item>
+    
+    <item>
+      <title>docker安装oracle 12c</title>
+      <link>https://somliy.top/post/2019/2019-2-10-docker-oracle12c/</link>
+      <pubDate>Sun, 10 Feb 2019 20:10:42 +0800</pubDate>
+      
+      <guid>https://somliy.top/post/2019/2019-2-10-docker-oracle12c/</guid>
+      <description>&lt;h2 id=&#34;docker安装oracle12c-并且导入数据数据格式的解决&#34;&gt;docker安装oracle12C 并且导入数据，数据格式的解决&lt;/h2&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

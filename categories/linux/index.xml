@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>linux on somliy的个人生活记录</title>
+    <link>https://somliy.top/categories/linux/</link>
+    <description>Recent content in linux on somliy的个人生活记录</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 22 Sep 2019 20:02:46 +0800</lastBuildDate>
+    
+	<atom:link href="https://somliy.top/categories/linux/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Centos7 防火墙 firewalld</title>
+      <link>https://somliy.top/post/2019/2019-9-22-study-firewalld/</link>
+      <pubDate>Sun, 22 Sep 2019 20:02:46 +0800</pubDate>
+      
+      <guid>https://somliy.top/post/2019/2019-9-22-study-firewalld/</guid>
+      <description>&lt;h2 id=&#34;iptables和firewalld&#34;&gt;iptables和firewalld&lt;/h2&gt;
+&lt;p&gt;Centos7以上的发行版都试自带了firewalld防火墙的，firewalld去带了iptables防火墙。&lt;/p&gt;
+&lt;p&gt;iptables的防火墙策略是交由内核层面的netfilter网络过滤器来处理的，而firewalld则是交由内核层面的nftables包过滤框架来处理。 相较于iptables防火墙而言，firewalld支持动态更新技术并加入了区域（zone）的概念。&lt;/p&gt;
+&lt;p&gt;简单来说，区域就是firewalld预先准备了几套防火墙策略集合（策略模板），用户可以根据生产场景的不同而选择合适的策略集合，从而实现防火墙策略之间的快速切换。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>CentOS首装</title>
+      <link>https://somliy.top/post/2019/2019-9-21-study-linux-centos/</link>
+      <pubDate>Sat, 21 Sep 2019 23:01:28 +0800</pubDate>
+      
+      <guid>https://somliy.top/post/2019/2019-9-21-study-linux-centos/</guid>
+      <description>&lt;p&gt;CentOS 首次安装软件集合&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Ubuntu首装</title>
+      <link>https://somliy.top/post/2019/2019-9-21-study-linux-ubuntu/</link>
+      <pubDate>Sat, 21 Sep 2019 23:01:28 +0800</pubDate>
+      
+      <guid>https://somliy.top/post/2019/2019-9-21-study-linux-ubuntu/</guid>
+      <description>&lt;p&gt;Ubuntu 首次安装软件集合&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Centos7安装docker</title>
+      <link>https://somliy.top/post/2019/2019-9-20-study-docker/</link>
+      <pubDate>Fri, 20 Sep 2019 23:01:28 +0800</pubDate>
+      
+      <guid>https://somliy.top/post/2019/2019-9-20-study-docker/</guid>
+      <description>&lt;h2 id=&#34;docker首装添加加速器docker-compose&#34;&gt;docker首装，添加加速器，docker-compose&lt;/h2&gt;</description>
+    </item>
+    
+    <item>
+      <title>CentOS 7 下 yum 安装和配置 Nginx</title>
+      <link>https://somliy.top/post/2019/2019-9-19-study-nginx/</link>
+      <pubDate>Thu, 19 Sep 2019 23:01:28 +0800</pubDate>
+      
+      <guid>https://somliy.top/post/2019/2019-9-19-study-nginx/</guid>
+      <description>&lt;h2 id=&#34;nginx-配置&#34;&gt;nginx 配置&lt;/h2&gt;</description>
+    </item>
+    
+    <item>
+      <title>ubuntu搜狗输入法乱码问题</title>
+      <link>https://somliy.top/post/2019/2019-8-22-study-ubuntu-mac/</link>
+      <pubDate>Thu, 22 Aug 2019 20:10:42 +0800</pubDate>
+      
+      <guid>https://somliy.top/post/2019/2019-8-22-study-ubuntu-mac/</guid>
+      <description>&lt;p&gt;自己写了个脚本，（重启fcitx）&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>manjaro主题调教</title>
+      <link>https://somliy.top/post/2019/2019-6-21-manjaro/</link>
+      <pubDate>Fri, 21 Jun 2019 20:10:42 +0800</pubDate>
+      
+      <guid>https://somliy.top/post/2019/2019-6-21-manjaro/</guid>
+      <description>&lt;h2 id=&#34;最近迷恋上linux搭一个manjaro试一下据说很好看&#34;&gt;最近迷恋上linux，搭一个manjaro试一下，据说很好看&lt;/h2&gt;</description>
+    </item>
+    
+    <item>
+      <title>docker 命令</title>
+      <link>https://somliy.top/post/2019/2019-5-10-docker-command/</link>
+      <pubDate>Fri, 10 May 2019 20:10:42 +0800</pubDate>
+      
+      <guid>https://somliy.top/post/2019/2019-5-10-docker-command/</guid>
+      <description>&lt;h2 id=&#34;docker-常用命令集锦&#34;&gt;docker 常用命令集锦&lt;/h2&gt;</description>
+    </item>
+    
+    <item>
+      <title>rpm和yum区别和联系以及apt-get</title>
+      <link>https://somliy.top/post/2019/2019-4-10-linux-type/</link>
+      <pubDate>Wed, 10 Apr 2019 20:10:42 +0800</pubDate>
+      
+      <guid>https://somliy.top/post/2019/2019-4-10-linux-type/</guid>
+      <description>&lt;h2 id=&#34;rpm是由红帽公司开发的软件包管理方式但是rpm软件包之间的依赖性问题往往会很繁琐尤其是软件由多个rpm包组成时&#34;&gt;rpm是由红帽公司开发的软件包管理方式，但是rpm软件包之间的依赖性问题往往会很繁琐,尤其是软件由多个rpm包组成时。&lt;/h2&gt;
+&lt;h2 id=&#34;yumyellow-dog-updater-modified是一个在fedora和redhat以及suse中的shell前端软件包管理器&#34;&gt;Yum（Yellow dog Updater, Modified）是一个在Fedora和RedHat以及SUSE中的Shell前端软件包管理器。&lt;/h2&gt;
+&lt;p&gt;基於RPM包管理，能够从指定的服务器自动下载RPM包并且安装，可以自动处理依赖性关系，并且一次安装所有依赖的软体包，无须繁琐地一次次下载、安装。&lt;/p&gt;
+&lt;p&gt;rpm 是一种软件包名称，以.rmp结尾，yum并不是一种包，而是安装包的软件。&lt;/p&gt;
+&lt;p&gt;rpm 只能安装已经下载到本地机器上的rpm 包.&lt;br&gt;
+yum能在线下载并安装rpm包,能更新系统,且还能自动处理包与包之间的依赖问题&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

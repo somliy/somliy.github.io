@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>主题 on somliy的个人生活记录</title>
+    <link>https://somliy.top/tags/%E4%B8%BB%E9%A2%98/</link>
+    <description>Recent content in 主题 on somliy的个人生活记录</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Fri, 21 Jun 2019 20:10:42 +0800</lastBuildDate>
+    
+	<atom:link href="https://somliy.top/tags/%E4%B8%BB%E9%A2%98/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>manjaro主题调教</title>
+      <link>https://somliy.top/post/2019/2019-6-21-manjaro/</link>
+      <pubDate>Fri, 21 Jun 2019 20:10:42 +0800</pubDate>
+      
+      <guid>https://somliy.top/post/2019/2019-6-21-manjaro/</guid>
+      <description>&lt;h2 id=&#34;最近迷恋上linux搭一个manjaro试一下据说很好看&#34;&gt;最近迷恋上linux，搭一个manjaro试一下，据说很好看&lt;/h2&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

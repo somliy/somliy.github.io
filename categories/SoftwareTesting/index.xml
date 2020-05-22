@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SoftwareTesting on somliy的个人生活记录</title>
+    <link>https://somliy.top/categories/SoftwareTesting/</link>
+    <description>Recent content in SoftwareTesting on somliy的个人生活记录</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Fri, 31 Jan 2020 14:25:50 +0800</lastBuildDate>
+    
+	<atom:link href="https://somliy.top/categories/SoftwareTesting/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>【软件测试学习】 敏捷开发（二）</title>
+      <link>https://somliy.top/post/2020/SoftwareTesting/2020-1-31-software-testing-2/</link>
+      <pubDate>Fri, 31 Jan 2020 14:25:50 +0800</pubDate>
+      
+      <guid>https://somliy.top/post/2020/SoftwareTesting/2020-1-31-software-testing-2/</guid>
+      <description>&lt;h2 id=&#34;敏捷软件开发&#34;&gt;敏捷软件开发&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;百度百科的定义&lt;/em&gt;&lt;br&gt;
+&lt;strong&gt;敏捷开发&lt;/strong&gt;(Scrum)以用户的需求进化为核心，采用迭代、循序渐进的方法进行软件开发。在敏捷开发中，软件项目在构建初期被切分成多个子项目，各个子项目的成果都经过测试，具备可视、可集成和可运行使用的特征。换言之，就是把一个大项目分为多个相互联系，但也可独立运行的小项目，并分别完成，在此过程中软件一直处于可使用状态。&lt;/p&gt;
+&lt;p&gt;这么一大段有点不好理解，可以简单理解为：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;适应变化，不断迭代。&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【软件测试学习】 软件测试初步认识（一）</title>
+      <link>https://somliy.top/post/2020/SoftwareTesting/2020-1-31-software-testing-1/</link>
+      <pubDate>Fri, 31 Jan 2020 14:25:50 +0800</pubDate>
+      
+      <guid>https://somliy.top/post/2020/SoftwareTesting/2020-1-31-software-testing-1/</guid>
+      <description>&lt;h2 id=&#34;什么是软件测试&#34;&gt;什么是软件测试&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;软件测试&lt;/strong&gt;（英语：software testing），描述一种用来促进鉴定软件的正确性、完整性、安全性和质量的过程。
+换句话说，软件测试是&lt;strong&gt;一种实际输出与预期输出间的审核或者比较过程&lt;/strong&gt;。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

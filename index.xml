@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>somliy的个人生活记录</title>
+    <link>https://somliy.top/</link>
+    <description>Recent content on somliy的个人生活记录</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Mon, 11 May 2020 00:36:52 +0800</lastBuildDate>
+    
+	<atom:link href="https://somliy.top/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>记一次剧本杀</title>
+      <link>https://somliy.top/essay/2020/2020-05-11-essay/</link>
+      <pubDate>Mon, 11 May 2020 00:36:52 +0800</pubDate>
+      
+      <guid>https://somliy.top/essay/2020/2020-05-11-essay/</guid>
+      <description>第一次玩剧本杀 - 万事屋 </description>
+    </item>
+    
+    <item>
+      <title>大老师经典语录</title>
+      <link>https://somliy.top/anime/2020/2020-03-25-anime/</link>
+      <pubDate>Wed, 25 Mar 2020 21:03:57 +0800</pubDate>
+      
+      <guid>https://somliy.top/anime/2020/2020-03-25-anime/</guid>
+      <description>&lt;p&gt;大老师经典语录&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【flutter学习】基础知识（一）</title>
+      <link>https://somliy.top/post/2020/flutter/2020-2-2-flutter/</link>
+      <pubDate>Sun, 02 Feb 2020 16:41:35 +0800</pubDate>
+      
+      <guid>https://somliy.top/post/2020/flutter/2020-2-2-flutter/</guid>
+      <description>&lt;h2 id=&#34;今天开始学习一下flutter&#34;&gt;今天开始学习一下flutter&lt;/h2&gt;
+&lt;h2 id=&#34;基础知识基本由flutter实战httpsbookflutterchinaclub中获取&#34;&gt;基础知识基本由&lt;a href=&#34;https://book.flutterchina.club/&#34;&gt;《Flutter实战》&lt;/a&gt;中获取。&lt;/h2&gt;
+&lt;p&gt;学习思路：首先由一个简单的例子引出每次学习的对象，一点一点加入元素，针对于代码去了解学习详细知识。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【软件测试学习】 敏捷开发（二）</title>
+      <link>https://somliy.top/post/2020/SoftwareTesting/2020-1-31-software-testing-2/</link>
+      <pubDate>Fri, 31 Jan 2020 14:25:50 +0800</pubDate>
+      
+      <guid>https://somliy.top/post/2020/SoftwareTesting/2020-1-31-software-testing-2/</guid>
+      <description>&lt;h2 id=&#34;敏捷软件开发&#34;&gt;敏捷软件开发&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;百度百科的定义&lt;/em&gt;&lt;br&gt;
+&lt;strong&gt;敏捷开发&lt;/strong&gt;(Scrum)以用户的需求进化为核心，采用迭代、循序渐进的方法进行软件开发。在敏捷开发中，软件项目在构建初期被切分成多个子项目，各个子项目的成果都经过测试，具备可视、可集成和可运行使用的特征。换言之，就是把一个大项目分为多个相互联系，但也可独立运行的小项目，并分别完成，在此过程中软件一直处于可使用状态。&lt;/p&gt;
+&lt;p&gt;这么一大段有点不好理解，可以简单理解为：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;适应变化，不断迭代。&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>【软件测试学习】 软件测试初步认识（一）</title>
+      <link>https://somliy.top/post/2020/SoftwareTesting/2020-1-31-software-testing-1/</link>
+      <pubDate>Fri, 31 Jan 2020 14:25:50 +0800</pubDate>
+      
+      <guid>https://somliy.top/post/2020/SoftwareTesting/2020-1-31-software-testing-1/</guid>
+      <description>&lt;h2 id=&#34;什么是软件测试&#34;&gt;什么是软件测试&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;软件测试&lt;/strong&gt;（英语：software testing），描述一种用来促进鉴定软件的正确性、完整性、安全性和质量的过程。
+换句话说，软件测试是&lt;strong&gt;一种实际输出与预期输出间的审核或者比较过程&lt;/strong&gt;。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>hugo 添加鼠标单击特效</title>
+      <link>https://somliy.top/post/2020/2020-1-29-hugo/</link>
+      <pubDate>Wed, 29 Jan 2020 19:20:58 +0800</pubDate>
+      
+      <guid>https://somliy.top/post/2020/2020-1-29-hugo/</guid>
+      <description>&lt;h2 id=&#34;hugo-博客-监听鼠标点击事件添加动画效果&#34;&gt;hugo 博客 监听鼠标点击事件，添加动画效果&lt;/h2&gt;</description>
+    </item>
+    
+    <item>
+      <title>hugo 监听浏览器切换title</title>
+      <link>https://somliy.top/post/2020/2020-1-28-hugo/</link>
+      <pubDate>Tue, 28 Jan 2020 19:20:58 +0800</pubDate>
+      
+      <guid>https://somliy.top/post/2020/2020-1-28-hugo/</guid>
+      <description>&lt;h2 id=&#34;hugo-博客-监听浏览器title-动态改变浏览器title标题&#34;&gt;hugo 博客 监听浏览器title 动态改变浏览器title标题&lt;/h2&gt;</description>
+    </item>
+    
+    <item>
+      <title>2020年新番</title>
+      <link>https://somliy.top/anime/2020/2020-01-01-anime/</link>
+      <pubDate>Wed, 01 Jan 2020 21:03:57 +0800</pubDate>
+      
+      <guid>https://somliy.top/anime/2020/2020-01-01-anime/</guid>
+      <description>&lt;p&gt;2020年动漫&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2019年终总结</title>
+      <link>https://somliy.top/essay/2019/2019-12-30-Year-end-summary/</link>
+      <pubDate>Mon, 30 Dec 2019 23:25:11 +0800</pubDate>
+      
+      <guid>https://somliy.top/essay/2019/2019-12-30-Year-end-summary/</guid>
+      <description>&lt;h2 id=&#34;建立博客一年了断断续续写了一点常说总结才会有收获今天来总结一下2019年&#34;&gt;建立博客一年了，断断续续写了一点，常说总结才会有收获，今天来总结一下2019年。&lt;/h2&gt;</description>
+    </item>
+    
+    <item>
+      <title>上大学以后才明白的事</title>
+      <link>https://somliy.top/essay/2019/2019-11-01-essay-after-high-school/</link>
+      <pubDate>Wed, 20 Nov 2019 21:00:51 +0800</pubDate>
+      
+      <guid>https://somliy.top/essay/2019/2019-11-01-essay-after-high-school/</guid>
+      <description>&lt;p&gt;天真的少年，随着时间，他成长了。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>关于一些事情的记录</title>
+      <link>https://somliy.top/essay/2019/2019-11-01-essay-record-something/</link>
+      <pubDate>Fri, 01 Nov 2019 23:35:53 +0800</pubDate>
+      
+      <guid>https://somliy.top/essay/2019/2019-11-01-essay-record-something/</guid>
+      <description>&lt;p&gt;记录一些不同时有着特殊意义的一些事或东西。&lt;/p&gt;
+&lt;p&gt;生活中总会有一些东西在一些神奇的情况下对你产生了奇怪的记忆，有些是印象深刻的，有好有坏。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>mysql 搭建互为主从</title>
+      <link>https://somliy.top/post/2019/2019-10-03-mysql-master-slave/</link>
+      <pubDate>Thu, 03 Oct 2019 23:48:35 +0800</pubDate>
+      
+      <guid>https://somliy.top/post/2019/2019-10-03-mysql-master-slave/</guid>
+      <description>&lt;p&gt;应需要本地搭建一个互为主从的mysql，达到读写分离的目的。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>「音乐」对于我</title>
+      <link>https://somliy.top/essay/2019/2019-10-01-essay-index-for-somebody/</link>
+      <pubDate>Tue, 01 Oct 2019 21:46:15 +0800</pubDate>
+      
+      <guid>https://somliy.top/essay/2019/2019-10-01-essay-index-for-somebody/</guid>
+      <description>&lt;p&gt;坚强只不过是坚强的样子。  -刀刀&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>随笔</title>
+      <link>https://somliy.top/essay/2019/2019-10-23-essay-essay/</link>
+      <pubDate>Tue, 01 Oct 2019 21:46:15 +0800</pubDate>
+      
+      <guid>https://somliy.top/essay/2019/2019-10-23-essay-essay/</guid>
+      <description>&lt;p&gt;随便写写&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>nginx 代理路径 到请求路径里</title>
+      <link>https://somliy.top/post/2019/2019-9-25-study-nginx-error/</link>
+      <pubDate>Wed, 25 Sep 2019 22:59:37 +0800</pubDate>
+      
+      <guid>https://somliy.top/post/2019/2019-9-25-study-nginx-error/</guid>
+      <description>&lt;p&gt;今天碰上一个问题，nginx明明已经代理了 &lt;code&gt;/api&lt;/code&gt; 请求，但是在代理的请求中还是带有 &lt;code&gt;/api&lt;/code&gt;， 导致后台报错401没有权限&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>随笔</title>
+      <link>https://somliy.top/essay/2019/2019-9-25-essay/</link>
+      <pubDate>Wed, 25 Sep 2019 22:59:37 +0800</pubDate>
+      
+      <guid>https://somliy.top/essay/2019/2019-9-25-essay/</guid>
+      <description>工作的性质会影响日常生活 </description>
+    </item>
+    
+    <item>
+      <title>爱好</title>
+      <link>https://somliy.top/essay/2019/2019-9-22-essay/</link>
+      <pubDate>Sun, 22 Sep 2019 20:34:51 +0800</pubDate>
+      
+      <guid>https://somliy.top/essay/2019/2019-9-22-essay/</guid>
+      <description>&lt;p&gt;今天思考了一下 - 爱好&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Centos7 防火墙 firewalld</title>
+      <link>https://somliy.top/post/2019/2019-9-22-study-firewalld/</link>
+      <pubDate>Sun, 22 Sep 2019 20:02:46 +0800</pubDate>
+      
+      <guid>https://somliy.top/post/2019/2019-9-22-study-firewalld/</guid>
+      <description>&lt;h2 id=&#34;iptables和firewalld&#34;&gt;iptables和firewalld&lt;/h2&gt;
+&lt;p&gt;Centos7以上的发行版都试自带了firewalld防火墙的，firewalld去带了iptables防火墙。&lt;/p&gt;
+&lt;p&gt;iptables的防火墙策略是交由内核层面的netfilter网络过滤器来处理的，而firewalld则是交由内核层面的nftables包过滤框架来处理。 相较于iptables防火墙而言，firewalld支持动态更新技术并加入了区域（zone）的概念。&lt;/p&gt;
+&lt;p&gt;简单来说，区域就是firewalld预先准备了几套防火墙策略集合（策略模板），用户可以根据生产场景的不同而选择合适的策略集合，从而实现防火墙策略之间的快速切换。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>CentOS首装</title>
+      <link>https://somliy.top/post/2019/2019-9-21-study-linux-centos/</link>
+      <pubDate>Sat, 21 Sep 2019 23:01:28 +0800</pubDate>
+      
+      <guid>https://somliy.top/post/2019/2019-9-21-study-linux-centos/</guid>
+      <description>&lt;p&gt;CentOS 首次安装软件集合&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Ubuntu首装</title>
+      <link>https://somliy.top/post/2019/2019-9-21-study-linux-ubuntu/</link>
+      <pubDate>Sat, 21 Sep 2019 23:01:28 +0800</pubDate>
+      
+      <guid>https://somliy.top/post/2019/2019-9-21-study-linux-ubuntu/</guid>
+      <description>&lt;p&gt;Ubuntu 首次安装软件集合&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Centos7安装docker</title>
+      <link>https://somliy.top/post/2019/2019-9-20-study-docker/</link>
+      <pubDate>Fri, 20 Sep 2019 23:01:28 +0800</pubDate>
+      
+      <guid>https://somliy.top/post/2019/2019-9-20-study-docker/</guid>
+      <description>&lt;h2 id=&#34;docker首装添加加速器docker-compose&#34;&gt;docker首装，添加加速器，docker-compose&lt;/h2&gt;</description>
+    </item>
+    
+    <item>
+      <title>CentOS 7 下 yum 安装和配置 Nginx</title>
+      <link>https://somliy.top/post/2019/2019-9-19-study-nginx/</link>
+      <pubDate>Thu, 19 Sep 2019 23:01:28 +0800</pubDate>
+      
+      <guid>https://somliy.top/post/2019/2019-9-19-study-nginx/</guid>
+      <description>&lt;h2 id=&#34;nginx-配置&#34;&gt;nginx 配置&lt;/h2&gt;</description>
+    </item>
+    
+    <item>
+      <title>ubuntu搜狗输入法乱码问题</title>
+      <link>https://somliy.top/post/2019/2019-8-22-study-ubuntu-mac/</link>
+      <pubDate>Thu, 22 Aug 2019 20:10:42 +0800</pubDate>
+      
+      <guid>https://somliy.top/post/2019/2019-8-22-study-ubuntu-mac/</guid>
+      <description>&lt;p&gt;自己写了个脚本，（重启fcitx）&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>manjaro主题调教</title>
+      <link>https://somliy.top/post/2019/2019-6-21-manjaro/</link>
+      <pubDate>Fri, 21 Jun 2019 20:10:42 +0800</pubDate>
+      
+      <guid>https://somliy.top/post/2019/2019-6-21-manjaro/</guid>
+      <description>&lt;h2 id=&#34;最近迷恋上linux搭一个manjaro试一下据说很好看&#34;&gt;最近迷恋上linux，搭一个manjaro试一下，据说很好看&lt;/h2&gt;</description>
+    </item>
+    
+    <item>
+      <title>动漫汇总(整理看过动漫)</title>
+      <link>https://somliy.top/anime/2019/2019-02-19-anime/</link>
+      <pubDate>Tue, 04 Jun 2019 22:11:49 +0800</pubDate>
+      
+      <guid>https://somliy.top/anime/2019/2019-02-19-anime/</guid>
+      <description>&lt;p&gt;记录曾经看过的动漫，伴随我从小学到初中，以至于到大学的时光。（200+）&lt;/p&gt;
+&lt;p&gt;我不认为动漫仅仅是动漫，其中的寓意会影响深远。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>docker 命令</title>
+      <link>https://somliy.top/post/2019/2019-5-10-docker-command/</link>
+      <pubDate>Fri, 10 May 2019 20:10:42 +0800</pubDate>
+      
+      <guid>https://somliy.top/post/2019/2019-5-10-docker-command/</guid>
+      <description>&lt;h2 id=&#34;docker-常用命令集锦&#34;&gt;docker 常用命令集锦&lt;/h2&gt;</description>
+    </item>
+    
+    <item>
+      <title>rpm和yum区别和联系以及apt-get</title>
+      <link>https://somliy.top/post/2019/2019-4-10-linux-type/</link>
+      <pubDate>Wed, 10 Apr 2019 20:10:42 +0800</pubDate>
+      
+      <guid>https://somliy.top/post/2019/2019-4-10-linux-type/</guid>
+      <description>&lt;h2 id=&#34;rpm是由红帽公司开发的软件包管理方式但是rpm软件包之间的依赖性问题往往会很繁琐尤其是软件由多个rpm包组成时&#34;&gt;rpm是由红帽公司开发的软件包管理方式，但是rpm软件包之间的依赖性问题往往会很繁琐,尤其是软件由多个rpm包组成时。&lt;/h2&gt;
+&lt;h2 id=&#34;yumyellow-dog-updater-modified是一个在fedora和redhat以及suse中的shell前端软件包管理器&#34;&gt;Yum（Yellow dog Updater, Modified）是一个在Fedora和RedHat以及SUSE中的Shell前端软件包管理器。&lt;/h2&gt;
+&lt;p&gt;基於RPM包管理，能够从指定的服务器自动下载RPM包并且安装，可以自动处理依赖性关系，并且一次安装所有依赖的软体包，无须繁琐地一次次下载、安装。&lt;/p&gt;
+&lt;p&gt;rpm 是一种软件包名称，以.rmp结尾，yum并不是一种包，而是安装包的软件。&lt;/p&gt;
+&lt;p&gt;rpm 只能安装已经下载到本地机器上的rpm 包.&lt;br&gt;
+yum能在线下载并安装rpm包,能更新系统,且还能自动处理包与包之间的依赖问题&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2019-02-20-我的青春恋爱物语果然有问题</title>
+      <link>https://somliy.top/anime/2019/2019-02-20-anime/</link>
+      <pubDate>Wed, 20 Feb 2019 22:11:49 +0800</pubDate>
+      
+      <guid>https://somliy.top/anime/2019/2019-02-20-anime/</guid>
+      <description>&lt;p&gt;我的青春结束了。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2019-2-17-寄宿学校的朱丽叶</title>
+      <link>https://somliy.top/anime/2019/2019-02-17-anime/</link>
+      <pubDate>Sun, 17 Feb 2019 22:24:45 +0800</pubDate>
+      
+      <guid>https://somliy.top/anime/2019/2019-02-17-anime/</guid>
+      <description>&lt;p&gt;这部动漫对我来说可以称神，可以这么说，是本人看过由《刀剑神域》以来，第二喜欢，比《月色真美》更加喜欢。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>docker安装oracle 12c</title>
+      <link>https://somliy.top/post/2019/2019-2-10-docker-oracle12c/</link>
+      <pubDate>Sun, 10 Feb 2019 20:10:42 +0800</pubDate>
+      
+      <guid>https://somliy.top/post/2019/2019-2-10-docker-oracle12c/</guid>
+      <description>&lt;h2 id=&#34;docker安装oracle12c-并且导入数据数据格式的解决&#34;&gt;docker安装oracle12C 并且导入数据，数据格式的解决&lt;/h2&gt;</description>
+    </item>
+    
+    <item>
+      <title>2019-2-5-除夕</title>
+      <link>https://somliy.top/essay/2019/2019-02-05-essay/</link>
+      <pubDate>Tue, 05 Feb 2019 00:42:02 +0800</pubDate>
+      
+      <guid>https://somliy.top/essay/2019/2019-02-05-essay/</guid>
+      <description>&lt;h2 id=&#34;年复一年除夕夜&#34;&gt;年复一年除夕夜。&lt;/h2&gt;</description>
+    </item>
+    
+    <item>
+      <title>2019-1-28-海底捞</title>
+      <link>https://somliy.top/essay/2019/2019-01-28-essay/</link>
+      <pubDate>Mon, 28 Jan 2019 23:34:14 +0800</pubDate>
+      
+      <guid>https://somliy.top/essay/2019/2019-01-28-essay/</guid>
+      <description>&lt;p&gt;第一次去海底捞，也是想去很久了&lt;/p&gt;
+&lt;p&gt;以前一直都是听说服务很好，就是有点贵，感觉如果是学生优惠的话，跟其他的火锅也差不多，但是很 うまい&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2019-1-23-自述</title>
+      <link>https://somliy.top/anime/2019/2019-01-23-anime/</link>
+      <pubDate>Wed, 23 Jan 2019 22:15:58 +0800</pubDate>
+      
+      <guid>https://somliy.top/anime/2019/2019-01-23-anime/</guid>
+      <description>&lt;p&gt;最初，进入二次元是什么时候呢？
+或许是一部吸引人的动漫，是一位帅气漂亮的人物，也许是一次不经意的一撇，也许是一位朋友的强烈推荐，许多许多个也许中，唯一不变的是当初看见它的欣喜，恍若人生被此填满了色彩，恍若天使之门洞开。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2019-01-22-2018年总结</title>
+      <link>https://somliy.top/essay/2019/2019-01-22-plan/</link>
+      <pubDate>Tue, 22 Jan 2019 21:00:12 +0800</pubDate>
+      
+      <guid>https://somliy.top/essay/2019/2019-01-22-plan/</guid>
+      <description>&lt;p&gt;回想2018，感觉时间过得好快&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2018-12-5-杀戮天使</title>
+      <link>https://somliy.top/anime/2018/2018-12-27-anime/</link>
+      <pubDate>Wed, 05 Dec 2018 00:10:47 +0800</pubDate>
+      
+      <guid>https://somliy.top/anime/2018/2018-12-27-anime/</guid>
+      <description>&lt;p&gt;补完杀戮天使，几天一口气看完，简单记录一下，和自己理解&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2018-9-4-从零开始的异世界</title>
+      <link>https://somliy.top/anime/2018/2018-09-04-anime/</link>
+      <pubDate>Tue, 04 Sep 2018 14:10:47 +0800</pubDate>
+      
+      <guid>https://somliy.top/anime/2018/2018-09-04-anime/</guid>
+      <description>&lt;p&gt;＂为什么那么喜欢落日？＂ ＂因为它像极了我喜欢你的心…＂ ＂……？＂ ＂就算会一点一点沉下去，明天照样会升起，我是这样喜欢你的呢。＂&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>somliy</title>
+      <link>https://somliy.top/about/</link>
+      <pubDate>Sat, 09 Jun 2018 14:18:35 +0800</pubDate>
+      
+      <guid>https://somliy.top/about/</guid>
+      <description>关于我 somliy
+ some one like you
+  即将毕业大学毕业，技术博客一般写在简书，这里记录一下日常，和动漫 ^_^ &amp;mdash; 2020年4月11日</description>
+    </item>
+    
+    <item>
+      <title>归档</title>
+      <link>https://somliy.top/archives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://somliy.top/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>搜索</title>
+      <link>https://somliy.top/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://somliy.top/search/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

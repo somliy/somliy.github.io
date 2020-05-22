@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>centos on somliy的个人生活记录</title>
+    <link>https://somliy.top/tags/centos/</link>
+    <description>Recent content in centos on somliy的个人生活记录</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 21 Sep 2019 23:01:28 +0800</lastBuildDate>
+    
+	<atom:link href="https://somliy.top/tags/centos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CentOS首装</title>
+      <link>https://somliy.top/post/2019/2019-9-21-study-linux-centos/</link>
+      <pubDate>Sat, 21 Sep 2019 23:01:28 +0800</pubDate>
+      
+      <guid>https://somliy.top/post/2019/2019-9-21-study-linux-centos/</guid>
+      <description>&lt;p&gt;CentOS 首次安装软件集合&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Centos7安装docker</title>
+      <link>https://somliy.top/post/2019/2019-9-20-study-docker/</link>
+      <pubDate>Fri, 20 Sep 2019 23:01:28 +0800</pubDate>
+      
+      <guid>https://somliy.top/post/2019/2019-9-20-study-docker/</guid>
+      <description>&lt;h2 id=&#34;docker首装添加加速器docker-compose&#34;&gt;docker首装，添加加速器，docker-compose&lt;/h2&gt;</description>
+    </item>
+    
+    <item>
+      <title>CentOS 7 下 yum 安装和配置 Nginx</title>
+      <link>https://somliy.top/post/2019/2019-9-19-study-nginx/</link>
+      <pubDate>Thu, 19 Sep 2019 23:01:28 +0800</pubDate>
+      
+      <guid>https://somliy.top/post/2019/2019-9-19-study-nginx/</guid>
+      <description>&lt;h2 id=&#34;nginx-配置&#34;&gt;nginx 配置&lt;/h2&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

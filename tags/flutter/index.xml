@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>flutter on somliy的个人生活记录</title>
+    <link>https://somliy.top/tags/flutter/</link>
+    <description>Recent content in flutter on somliy的个人生活记录</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 02 Feb 2020 16:41:35 +0800</lastBuildDate>
+    
+	<atom:link href="https://somliy.top/tags/flutter/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>【flutter学习】基础知识（一）</title>
+      <link>https://somliy.top/post/2020/flutter/2020-2-2-flutter/</link>
+      <pubDate>Sun, 02 Feb 2020 16:41:35 +0800</pubDate>
+      
+      <guid>https://somliy.top/post/2020/flutter/2020-2-2-flutter/</guid>
+      <description>&lt;h2 id=&#34;今天开始学习一下flutter&#34;&gt;今天开始学习一下flutter&lt;/h2&gt;
+&lt;h2 id=&#34;基础知识基本由flutter实战httpsbookflutterchinaclub中获取&#34;&gt;基础知识基本由&lt;a href=&#34;https://book.flutterchina.club/&#34;&gt;《Flutter实战》&lt;/a&gt;中获取。&lt;/h2&gt;
+&lt;p&gt;学习思路：首先由一个简单的例子引出每次学习的对象，一点一点加入元素，针对于代码去了解学习详细知识。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

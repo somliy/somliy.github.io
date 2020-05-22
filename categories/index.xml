@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on somliy的个人生活记录</title>
+    <link>https://somliy.top/categories/</link>
+    <description>Recent content in Categories on somliy的个人生活记录</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Mon, 11 May 2020 00:36:52 +0800</lastBuildDate>
+    
+	<atom:link href="https://somliy.top/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>essay</title>
+      <link>https://somliy.top/categories/essay/</link>
+      <pubDate>Mon, 11 May 2020 00:36:52 +0800</pubDate>
+      
+      <guid>https://somliy.top/categories/essay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>anime</title>
+      <link>https://somliy.top/categories/anime/</link>
+      <pubDate>Wed, 25 Mar 2020 21:03:57 +0800</pubDate>
+      
+      <guid>https://somliy.top/categories/anime/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>flutter</title>
+      <link>https://somliy.top/categories/flutter/</link>
+      <pubDate>Sun, 02 Feb 2020 16:41:35 +0800</pubDate>
+      
+      <guid>https://somliy.top/categories/flutter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SoftwareTesting</title>
+      <link>https://somliy.top/categories/SoftwareTesting/</link>
+      <pubDate>Fri, 31 Jan 2020 14:25:50 +0800</pubDate>
+      
+      <guid>https://somliy.top/categories/SoftwareTesting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://somliy.top/categories/hugo/</link>
+      <pubDate>Wed, 29 Jan 2020 19:20:58 +0800</pubDate>
+      
+      <guid>https://somliy.top/categories/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mysql</title>
+      <link>https://somliy.top/categories/mysql/</link>
+      <pubDate>Thu, 03 Oct 2019 23:48:35 +0800</pubDate>
+      
+      <guid>https://somliy.top/categories/mysql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nginx</title>
+      <link>https://somliy.top/categories/nginx/</link>
+      <pubDate>Wed, 25 Sep 2019 22:59:37 +0800</pubDate>
+      
+      <guid>https://somliy.top/categories/nginx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>https://somliy.top/categories/linux/</link>
+      <pubDate>Sun, 22 Sep 2019 20:02:46 +0800</pubDate>
+      
+      <guid>https://somliy.top/categories/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>docker</title>
+      <link>https://somliy.top/categories/docker/</link>
+      <pubDate>Fri, 20 Sep 2019 23:01:28 +0800</pubDate>
+      
+      <guid>https://somliy.top/categories/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>https://somliy.top/categories/about/</link>
+      <pubDate>Sat, 09 Jun 2018 14:18:35 +0800</pubDate>
+      
+      <guid>https://somliy.top/categories/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
